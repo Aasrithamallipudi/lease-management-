@@ -1,2 +1,2 @@
 # lease-management-
-![alt text](images/DB.png)
+![alt text](Images/db_dig.png)
