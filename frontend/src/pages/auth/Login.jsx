@@ -71,12 +71,6 @@ function Login() {
         <p className="auth-foot">
           New here? <Link to="/signup">Create an account</Link>
         </p>
-
-        <div className="demo-hint">
-          <p style={{ fontSize: "0.75rem", color: "#888", marginTop: "12px" }}>
-            Admin Login: <code>admin@leasehub.com</code> / <code>123456</code>
-          </p>
-        </div>
       </div>
     </div>
   );
